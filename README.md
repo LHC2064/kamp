@@ -55,5 +55,5 @@
 - 타 공정으로의 확장
     - 해당 불량예방시스템과 모델 고도화 프로세스는 비슷한 공정 데이터가 발생하는 타 공정에도 적용 가능 예상
 ## 코드
-KAMP_warining_final.ipynb : 제공된 공정 데이터 EDA를 통해 특정 구역에 불량비율이 높은 것을 확인하였고, 경계군과 위험군을 나눠서 파생변수 생성 인사이트를 도출함
-KAMP_simulation_final.ipynb : 제안한 모델을 실제 공정 데이터를 통해 시뮬레이션을 하여 효과를 확인
+- KAMP_warining_final.ipynb : 제공된 공정 데이터 EDA 및 분석
+- KAMP_simulation_final.ipynb : 제안한 모델을 실제 공정 데이터를 통해 시뮬레이션
